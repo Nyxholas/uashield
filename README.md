@@ -17,6 +17,7 @@
 1. You can find pre-compiled binaries in the [releases](https://github.com/opengs/uashield/releases) section.
 2. Double-check for the latest release and your platform
 3. Download and run
+4. To change language to English click the drop down arrow
 
 ** Running on Linux may require an additional "--no-sandbox" argument. We are trying to solve this problem. On Windows everything works without any additional efforts.**
 
